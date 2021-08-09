@@ -55,3 +55,14 @@ D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\obj\Debug\net5.0\API
 D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\obj\Debug\net5.0\ref\API.dll
 D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\obj\Debug\net5.0\API.pdb
 D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00086714.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00086863.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00086904.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00087049.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00087067.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00087105.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00087106.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00087146.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00087265.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00087268.json
+D:\FONTAINEKE\My Documents\Project\Simplon_Entrainement\API\bin\Debug\net5.0\Json\00087273.json
