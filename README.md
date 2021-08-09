@@ -26,10 +26,10 @@ Methode GET : Renvoie un message permettant de savoir si l'API est bien en march
 ### ROUTE /api/v1/ITAccount
 Methode GET : Renvoie la liste des comptes informatiques qui existe en base de données.
 
-Methode POST : Accepte un Json de la forme suivante avec les champs suivants -> 
-"MATRICULE" -> Corresponds au PERNR du collaborateur.
-"ITAccountID" -> Corresponds à l'objectSID du collaborateur.
-"CurrentStep" -> Corresponds à l'état actuel du compte informatique du collaborateur.
+Methode POST : Accepte un Json de la forme suivante avec les champs suivants ->   
+"MATRICULE" -> Corresponds au PERNR du collaborateur.  
+"ITAccountID" -> Corresponds à l'objectSID du collaborateur.  
+"CurrentStep" -> Corresponds à l'état actuel du compte informatique du collaborateur.  
 
 
 ## Note
