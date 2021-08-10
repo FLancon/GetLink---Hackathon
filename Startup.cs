@@ -1,6 +1,8 @@
 using System;
+using System.Reflection;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -39,6 +41,7 @@ namespace API
                 opt.UseSqlite("Data Source=BaseDeDonnee.db");
             });
             services.AddScoped<IITAccountRepository, ITAccountRepository>();
+            services.AddSwaggerGen();
         }
 
         // Cette fonction sert à la configuration des fonctionnalité d'un serveur dotnet.
@@ -58,7 +61,12 @@ namespace API
             // Un élément obligatoire aujourd'hui. Pour les besoin du dev, je le commente.
 
             //app.UseHttpsRedirection();
+            app.UseSwagger();
 
+            app.UseSwaggerUI(c => 
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1");
+            });
             // Les routes sont les urls. On utilise logiquement cette fonctionnalité pour
             // un projet web.
             app.UseRouting();
