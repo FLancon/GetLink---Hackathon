@@ -31,6 +31,9 @@ Methode POST : Accepte un Json de la forme suivante avec les champs suivants ->
 "ITAccountID" -> Corresponds à l'objectSID du collaborateur.  
 "CurrentStep" -> Corresponds à l'état actuel du compte informatique du collaborateur.  
 
+### Route /swagger
+Permet d'avoir un page Web Swagger afin d'avoir un résumer du fonctionnement de l'API.  
+Possible de faire des requêtes également comme sur un POSTMAN.
 
 ## Note
-Le code de l'API est disponible et commenté. 
+Le code de l'API est disponible et commenté.
